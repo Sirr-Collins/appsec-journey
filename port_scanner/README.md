@@ -17,7 +17,7 @@ The following demonstration shows AETHER successfully identifying active listene
 
 
 
-## Installation & Usage
+## Installation and Usage
 
 Since this tool utilizes standard Python libraries, no additional `pip` installations are required.
 
@@ -26,12 +26,11 @@ Since this tool utilizes standard Python libraries, no additional `pip` installa
    git clone [https://github.com/yourusername/aether-port-scout.git](https://github.com/yourusername/aether-port-scout.git)
    cd aether-port-scout
    
-Run the scanner:
-    Bash
-
+2. Run the scanner:
+    ```bash
     python scan.py
 
-    Input your parameters:
+3. Input your parameters:
     The interface will prompt you for the target IP address and the specific port range you wish to sweep.
 
 
