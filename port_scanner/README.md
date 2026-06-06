@@ -32,7 +32,7 @@ Since this tool utilizes standard Python libraries, no additional `pip` installa
 
 3. Input your parameters:
     The interface will prompt you for the target IP address and the specific port range you wish to sweep.
-
+    ```bash
 
     --------------------------------------------------
     AETHER: Tactical Port Scout - Multi-Threaded
